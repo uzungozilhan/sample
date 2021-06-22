@@ -1,1 +1,1 @@
-# sample
+lokal main 1
