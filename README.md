@@ -1,1 +1,1 @@
-lokal main 1
+remote main 1
