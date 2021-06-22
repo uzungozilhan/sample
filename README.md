@@ -1,2 +1,2 @@
 
-remote root 2
+lokal root2 1
